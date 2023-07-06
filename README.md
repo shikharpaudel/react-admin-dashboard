@@ -13,13 +13,14 @@ User-friendly Interface: The app offers a clean and intuitive user interface, ma
 <h2>Technologies Used</h2>
 React.js: A popular JavaScript library for building user interfaces.<br>
 Material-UI: A flexible and customizable UI component library based on Material Design guidelines.
-<h2>Getting Started</h2>
-<h4>Follow these steps to get the app up and running on your local machine:</h4>
-Clone the repository: `git clone <repository_url>`<br>
-Install dependencies: npm install<br>
-Configure the app: Provide necessary configuration details, such as API endpoints or environment variables.<br>
-Start the development server: npm start<br>
-Access the app: Open your browser and visit http://localhost:3000 (or the specified port).
+## Development Setup
+If you would like to set up the Admin Dashboard App project for development on your local machine, follow these steps:
+1. Clone the repository: `git clone https://github.com/your-username/your-repository`.
+2. Install project dependencies: `npm install`.
+3. Configure any necessary environment variables or project-specific settings.
+4. Start the development server: `npm start`.
+5. Access the app in your browser: Open `http://localhost:3000` (or the specified port) to view the app.
+
 Contributing<br>
 **Call for Contributions:** We are actively seeking contributors who are interested in making the admin dashboard mobile responsive. If you have experience in responsive web design and would like to contribute to this effort, we welcome your contributions.<br>
 Please follow the guidelines in the [Contributing Guidelines](CONTRIBUTING.md) to contribute to the mobile responsiveness of the admin dashboard. If you have any questions or need clarification, feel free to reach out to [Your Name] at [your-email@example.com].<br>
