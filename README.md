@@ -11,20 +11,16 @@ User-friendly Interface: The app offers a clean and intuitive user interface, ma
 <h4>Reporting and Analytics:</h4> Generate reports and visualize data trends to gain valuable insights. Identify patterns, track performance, and make data-driven decisions to optimize operations.
 
 <h2>Technologies Used</h2>
-React.js: A popular JavaScript library for building user interfaces.
+React.js: A popular JavaScript library for building user interfaces.<br>
 Material-UI: A flexible and customizable UI component library based on Material Design guidelines.
 <h2>Getting Started</h2>
 <h4>Follow these steps to get the app up and running on your local machine:</h4>
-Clone the repository: git clone <repository_url>
-Install dependencies: npm install
+Clone the repository: git clone <repository_url><br>
+Install dependencies: npm install<br>
 Configure the app: Provide necessary configuration details, such as API endpoints or environment variables.
 Start the development server: npm start
-Access the app: Open your browser and visit http://localhost:3000 (or the specified port).
-Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-## Mobile Responsiveness
-i understand the importance of having the admin dashboard be mobile responsive to ensure accessibility and usability across various devices. At the moment, the app is optimized for desktop and larger screens.
-
+Access the app: Open your browser and visit http://localhost:3000 (or the specified port).<br>
+Contributing<br>
 **Call for Contributions:** We are actively seeking contributors who are interested in making the admin dashboard mobile responsive. If you have experience in responsive web design and would like to contribute to this effort, we welcome your contributions.
 Please follow the guidelines in the [Contributing Guidelines](CONTRIBUTING.md) to contribute to the mobile responsiveness of the admin dashboard. If you have any questions or need clarification, feel free to reach out to [Your Name] at [your-email@example.com].
 Your contributions will be greatly appreciated and will help enhance the user experience by making the admin dashboard more accessible on mobile devices.
