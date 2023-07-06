@@ -1,6 +1,4 @@
 <h1>Admin Dashboard App</h1>
-![Screenshot (2)](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/c677255d-0875-490b-b5c7-07ba2822a017)
-
 The Admin Dashboard App is a powerful and user-friendly web application built with React.js and Material-UI. It provides administrators with a comprehensive and intuitive interface to efficiently manage various aspects of their system or organization. The app is designed to streamline administrative tasks, monitor key metrics, and facilitate decision-making processes.
 <h3>Key Features</h3>
 User-friendly Interface: The app offers a clean and intuitive user interface, making it easy for administrators to navigate and access different features.
