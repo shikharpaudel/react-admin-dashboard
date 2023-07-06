@@ -1,11 +1,11 @@
 <h1>Admin Dashboard App</h1>
 The Admin Dashboard App is a powerful and user-friendly web application built with React.js and Material-UI. It provides administrators with a comprehensive and intuitive interface to efficiently manage various aspects of their system or organization. The app is designed to streamline administrative tasks, monitor key metrics, and facilitate decision-making processes.
-<h1>Live Site(Dark Mode):</h1><br>
-![photo_6140777793114454257_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/7e7b9ea4-d6bf-41bb-b74a-b5acbac03100)
-![photo_6140777793114454258_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/a96eafab-6851-43bb-8251-5e7d014a2628)
-<h1>Live Site(Light Mode):</h1><br>
-![photo_6140777793114454256_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/423d5ad7-d09d-45e1-a0d2-736beb472a3e)
-![photo_6140777793114454255_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/2360a1f5-9ad7-4797-a879-2117d81cc642)
+<h1>Live Site(Dark/Light Mode):</h1>
+![photo_6140777793114454258_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/7c01c91a-d7f2-49d0-be4d-b8273c336980)
+![photo_6140777793114454257_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/97d1331e-5806-4c9b-afdd-539fefd7da24)
+![photo_6140777793114454256_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/0b4f025b-3078-444d-94d1-01bc8e1237e5)
+![photo_6140777793114454255_y](https://github.com/shikharpaudel/react-admin-dashboard/assets/75170007/cf58de93-9506-49fa-ba07-ed708ce20df0)
+
 <h3>Key Features</h3>
 User-friendly Interface: The app offers a clean and intuitive user interface, making it easy for administrators to navigate and access different features.
 
