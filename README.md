@@ -14,11 +14,11 @@ User-friendly Interface: The app offers a clean and intuitive user interface, ma
 React.js: A popular JavaScript library for building user interfaces.<br>
 Material-UI: A flexible and customizable UI component library based on Material Design guidelines.
 ## Development Setup
-If you would like to set up the Admin Dashboard App project for development on your local machine, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/your-repository`.
-2. Install project dependencies: `npm install`.
-3. Configure any necessary environment variables or project-specific settings.
-4. Start the development server: `npm start`.
+If you would like to set up the Admin Dashboard App project for development on your local machine, follow these steps:<br>
+1. Clone the repository: `git clone https://github.com/your-username/your-repository`.<br>
+2. Install project dependencies: `npm install`.<br>
+3. Configure any necessary environment variables or project-specific settings.<br>
+4. Start the development server: `npm start`.<br>
 5. Access the app in your browser: Open `http://localhost:3000` (or the specified port) to view the app.
 
 Contributing<br>
