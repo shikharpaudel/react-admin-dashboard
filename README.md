@@ -15,11 +15,11 @@ React.js: A popular JavaScript library for building user interfaces.<br>
 Material-UI: A flexible and customizable UI component library based on Material Design guidelines.
 <h2>Getting Started</h2>
 <h4>Follow these steps to get the app up and running on your local machine:</h4>
-Clone the repository: git clone <repository_url> <br>
+Clone the repository: `git clone <repository_url>`<br>
 Install dependencies: npm install<br>
-Configure the app: Provide necessary configuration details, such as API endpoints or environment variables.
-Start the development server: npm start
-Access the app: Open your browser and visit http://localhost:3000 (or the specified port).<br>
+Configure the app: Provide necessary configuration details, such as API endpoints or environment variables.<br>
+Start the development server: npm start<br>
+Access the app: Open your browser and visit http://localhost:3000 (or the specified port).
 Contributing<br>
 **Call for Contributions:** We are actively seeking contributors who are interested in making the admin dashboard mobile responsive. If you have experience in responsive web design and would like to contribute to this effort, we welcome your contributions.<br>
 Please follow the guidelines in the [Contributing Guidelines](CONTRIBUTING.md) to contribute to the mobile responsiveness of the admin dashboard. If you have any questions or need clarification, feel free to reach out to [Your Name] at [your-email@example.com].<br>
